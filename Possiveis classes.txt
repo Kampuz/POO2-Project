@@ -1,0 +1,29 @@
+Redes Sociais:
+  MensagemPrivada e Comentario;
+
+Biblioteca Virtual:
+  Reserva e Multa;
+
+Sistema de Gerenciamento de Tarefas:
+  ComentarioTarefa e SubTarefa;
+
+Aplicação de E-commerce:
+  PagamentoBoleto e AvaliacaoProduto;
+
+Sistema de Saúde:
+  Hospital e EspecialidadeMedica;
+
+Sistema de Gerenciamento Escolar:
+  Horario e Atividade;
+
+Sistema de Reservas de Hotel:
+  FuncionarioHote e CheckOut;
+
+Sistema de Transporte Público:
+  Parada e BilheteEletronico;
+
+Sistema de Gerenciamento de Restaurantes:
+  Garçom e ItemMenu;
+
+Sistema de Gerenciamento de Vendas de Ingressos:
+  Organizador e RelatorioVendas;
